@@ -1,7 +1,7 @@
-# EMNLP-2024-ARR
+# :star: EMNLP-2024-ARR :star:
 Archiving ARR papers for EMNLP 2024
 
-## Factuality & Mitigating Hallucination
+## :book: Factuality & Mitigating Hallucination
 
 1) [Entropy Guided Extrapolative Decoding to Improve Factuality in Large Language Models](https://openreview.net/forum?id=wnZ5gINYfO)
 2) [OpenFactCheck: A Unified Framework for Factuality Evaluation of LLMs](https://openreview.net/forum?id=1WvIFEPNG1)
@@ -79,7 +79,7 @@ Archiving ARR papers for EMNLP 2024
 9) [Language Models Can Think Faster: Compressing Chain-of-Thought without Compromising Effectiveness](https://openreview.net/forum?id=uVjSlJ7bi1)
 10) [SCA: Selective Compression Attention for Efficiently Extending the Context Window of Large Language Models](https://openreview.net/forum?id=y5gbFhQUbU)
 
-## Medical Problems
+## :book: Medical Problems
 1) [Fine-tuning Large Language Models with Human-inspired Learning Strategies in Medical Question Answering](https://openreview.net/forum?id=1ex0hyw6R8)
 2) [Unified Approach for more Generalizable Medical Language Understanding through Instruction Tuning](https://openreview.net/forum?id=1qzSGLm6wI)
 3) [CasiMedicos-Arg: A Medical Question Answering Dataset Annotated with Explanatory Argumentative Structures](https://openreview.net/forum?id=BTOfSCbjC5)
@@ -102,7 +102,7 @@ Archiving ARR papers for EMNLP 2024
 20) [CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios](https://openreview.net/forum?id=vnq8vVuLPR)
 21) [Automated Clinical Data Extraction with Knowledge Conditioned LLMs](https://openreview.net/forum?id=Hx4iYqZV5J)
 
-## Multimodal LLM
+## :book: Multimodal LLM
 1) [Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech](https://openreview.net/forum?id=7roOZvDii6)
 2) [MC-MKE: A Fine-Grained Multimodal Knowledge Editing Benchmark Emphasizing Modality Consistency](https://openreview.net/forum?id=9E8IZ8dOuA)
 3) [MTChat: A Multimodal Time-Aware Dataset and Framework for Conversation](https://openreview.net/forum?id=AYzd2W2ZEG)
@@ -132,7 +132,7 @@ Archiving ARR papers for EMNLP 2024
 27) [Progressive Multimodal Chain-of-Thought Tuning for Vision-Indispensable Reasoning](https://openreview.net/forum?id=t8MJG2Nav6)
 28) [MEANT: Multimodal Encoder for Antecedent Information](https://openreview.net/forum?id=zuS0YC7rpC)
 
-## Knowledge Editing 
+## :book: Knowledge Editing 
 1) [Stable Knowledge Editing in Large Language Models](https://openreview.net/forum?id=2ebvGUqmiz)
 2) [EVEDIT: Event-based Knowledge Editing for Deterministic Knowledge Propagation](https://openreview.net/forum?id=3hgsBxuGfQ)
 3) [Event-level Knowledge Editing](https://openreview.net/forum?id=7nIUWNewmT)
@@ -149,7 +149,7 @@ Archiving ARR papers for EMNLP 2024
 14) [Commonsense Knowledge Editing Based on Free-Text in LLMs](https://openreview.net/forum?id=yGXVC2BqaY)
 15) [Twice is Nice! Improving MEMIT for Knowledge Editing](https://openreview.net/forum?id=zsVdXouyPK)
 
-## Uncertainty & Consistency
+## :book: Uncertainty & Consistency
 1) [ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees](https://openreview.net/forum?id=IKK3v4uJz3)
 2) [Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models](https://openreview.net/forum?id=S7he4lxunu)
 3) [Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations](https://openreview.net/forum?id=zcFbcwrx7O)
@@ -161,3 +161,14 @@ Archiving ARR papers for EMNLP 2024
 9) [Atomic Self-Consistency for Better Long Form Generations](https://openreview.net/forum?id=mUmFgGtWni)
 10) [On the Consistency of Prompt Preference across LLMs](https://openreview.net/forum?id=w81ziXFCLT)
 11) [Logic Consistency Makes Large Language Models Personalized Reasoning Teachers](https://openreview.net/forum?id=zhBbq1RfFf)
+
+## :book: Long Context LLM & Long Text Generation
+1) [Counting-Stars: A Multi-evidence, Position-aware, and Scalable Benchmark for Evaluating Long-Context Large Language Models](https://openreview.net/forum?id=C3MbT9xzxj)
+2) [Recurrent Context Compression: Efficiently Expanding the Context Window of LLM](https://openreview.net/forum?id=E4JmTsdXhr)
+3) [You Comprehended the Whole Paper: Academic Reviews Enhance LLM Long-Context Capabilities](https://openreview.net/forum?id=Sme3gqbIeq)
+4) [LongAlign: A Recipe for Long Context Alignment of Large Language Models](https://openreview.net/forum?id=aI9MESYatf)
+5) [More Bang for your Context: Virtual Documents for Question Answering over Long Documents](https://openreview.net/forum?id=aumwGAptJW)
+6) [Is long context helpful for dialog response generation?](https://openreview.net/forum?id=iIWujvj8Kg)
+7) [DocDoc: a general framework for open-ended long text generation](https://openreview.net/forum?id=jZeuVLt9Bs)
+8) [RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension](https://openreview.net/forum?id=k3ibnAmzKG)
+9) [Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA](https://openreview.net/forum?id=rvXzn73Gxm)
