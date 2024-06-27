@@ -148,3 +148,16 @@ Archiving ARR papers for EMNLP 2024
 13) [Cracking Factual Knowledge: A Comprehensive Analysis of Degenerate Knowledge Neurons in Large Language Models](https://openreview.net/forum?id=xVSJ4e9thv)
 14) [Commonsense Knowledge Editing Based on Free-Text in LLMs](https://openreview.net/forum?id=yGXVC2BqaY)
 15) [Twice is Nice! Improving MEMIT for Knowledge Editing](https://openreview.net/forum?id=zsVdXouyPK)
+
+## Uncertainty & Consistency
+1) [ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees](https://openreview.net/forum?id=IKK3v4uJz3)
+2) [Understanding the Relationship between Prompts and Response Uncertainty in Large Language Models](https://openreview.net/forum?id=S7he4lxunu)
+3) [Mitigating Hallucinations in Large Language Model Agent Communication with Uncertainty Estimations](https://openreview.net/forum?id=zcFbcwrx7O)
+4) [Trainable Attention-based Conditional Dependency for Uncertainty Quantification of Large Language Models](https://openreview.net/forum?id=qXDppd1Xy3)
+5) [SummaCoz: A Dataset for Improving the Interpretability of Factual Consistency Detection for Summarization](https://openreview.net/forum?id=1zJrDjKTWg)
+6) [Improving the Factual Consistency of Abstractive Summarization: Model Self-Improvement Contrastive Learning](https://openreview.net/forum?id=ZUjqTc3dtz)
+7) [To Know or Not To Know? Analyzing Self-Consistency of Large Language Models under Ambiguity](https://openreview.net/forum?id=ahh5eXkKKc)
+8) [Improving Factual Consistency of News Summarization by Contrastive Preference Optimization](https://openreview.net/forum?id=eVEAO0MHP4)
+9) [Atomic Self-Consistency for Better Long Form Generations](https://openreview.net/forum?id=mUmFgGtWni)
+10) [On the Consistency of Prompt Preference across LLMs](https://openreview.net/forum?id=w81ziXFCLT)
+11) [Logic Consistency Makes Large Language Models Personalized Reasoning Teachers](https://openreview.net/forum?id=zhBbq1RfFf)
