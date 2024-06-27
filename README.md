@@ -1,4 +1,4 @@
-# :star: EMNLP-2024-ARR :star:
+# :star: EMNLP-2024-ARR
 Archiving ARR papers for EMNLP 2024
 
 ## :book: Factuality & Mitigating Hallucination
