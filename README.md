@@ -2,7 +2,7 @@
 Archiving ARR papers for EMNLP 2024
 
 ## Contents
-1. [Factuality & Mitigating Hallucination](#Factuality & Mitigating Hallucination)
+1. [Factuality, Mitigating Hallucination](#Factuality and Mitigating Hallucination)
 
 ## Factuality & Mitigating Hallucination
 
