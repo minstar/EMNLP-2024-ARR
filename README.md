@@ -100,6 +100,7 @@ Archiving ARR papers for EMNLP 2024
 18) [JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability](https://openreview.net/forum?id=nrh06BSQks)
 19) [PretextTrans: Investigating Medical Factual Knowledge Mastery of LLMs with Predicate-text Dual Transformation](https://openreview.net/forum?id=oxYT7ztOt1)
 20) [CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios](https://openreview.net/forum?id=vnq8vVuLPR)
+21) [Automated Clinical Data Extraction with Knowledge Conditioned LLMs](https://openreview.net/forum?id=Hx4iYqZV5J)
 
 ## Multimodal LLM
 1) [Towards Human-like Multimodal Conversational Agent by Generating Engaging Speech](https://openreview.net/forum?id=7roOZvDii6)
@@ -130,3 +131,20 @@ Archiving ARR papers for EMNLP 2024
 26) [Plug-and-Play Grounding of Reasoning in Multimodal Large Language Models](https://openreview.net/forum?id=rDbFH8P82r)
 27) [Progressive Multimodal Chain-of-Thought Tuning for Vision-Indispensable Reasoning](https://openreview.net/forum?id=t8MJG2Nav6)
 28) [MEANT: Multimodal Encoder for Antecedent Information](https://openreview.net/forum?id=zuS0YC7rpC)
+
+** Knowledge Editing 
+1) [Stable Knowledge Editing in Large Language Models](https://openreview.net/forum?id=2ebvGUqmiz)
+2) [EVEDIT: Event-based Knowledge Editing for Deterministic Knowledge Propagation](https://openreview.net/forum?id=3hgsBxuGfQ)
+3) [Event-level Knowledge Editing](https://openreview.net/forum?id=7nIUWNewmT)
+4) [Multilingual Knowledge Editing with Language-Agnostic Factual Neurons](https://openreview.net/forum?id=JRxfpIpb2W)
+5) [Knowledge Conflicts for LLMs: A Survey](https://openreview.net/forum?id=P8PF2e5EXf)
+6) [Knowledge Graph Enhanced Large Language Model Editing](https://openreview.net/forum?id=aw5grkur0F)
+7) [Better Call SAUL: Fluent and Consistent Language Model Editing with Generation Regularization](https://openreview.net/forum?id=PtkLLWQeRe)
+8) [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://openreview.net/forum?id=btfCvWz5vO)
+9) [Language Model Can Do Knowledge Tracing: Simple but Effective Method to Integrate Language Model and Knowledge Tracing Task](https://openreview.net/forum?id=bvKg3wNxkY)
+10) [How Well Can Knowledge Edit Methods Edit Perplexing Knowledge?](https://openreview.net/forum?id=kWSpDKbHqS)
+11) [Temporal Knowledge Graph Question Answering: A Survey](https://openreview.net/forum?id=l6y6Ei4TjA)
+12) [On the Robustness of Editing Large Language Models](https://openreview.net/forum?id=vRHUZt3f07)
+13) [Cracking Factual Knowledge: A Comprehensive Analysis of Degenerate Knowledge Neurons in Large Language Models](https://openreview.net/forum?id=xVSJ4e9thv)
+14) [Commonsense Knowledge Editing Based on Free-Text in LLMs](https://openreview.net/forum?id=yGXVC2BqaY)
+15) [Twice is Nice! Improving MEMIT for Knowledge Editing](https://openreview.net/forum?id=zsVdXouyPK)
