@@ -132,7 +132,7 @@ Archiving ARR papers for EMNLP 2024
 27) [Progressive Multimodal Chain-of-Thought Tuning for Vision-Indispensable Reasoning](https://openreview.net/forum?id=t8MJG2Nav6)
 28) [MEANT: Multimodal Encoder for Antecedent Information](https://openreview.net/forum?id=zuS0YC7rpC)
 
-** Knowledge Editing 
+## Knowledge Editing 
 1) [Stable Knowledge Editing in Large Language Models](https://openreview.net/forum?id=2ebvGUqmiz)
 2) [EVEDIT: Event-based Knowledge Editing for Deterministic Knowledge Propagation](https://openreview.net/forum?id=3hgsBxuGfQ)
 3) [Event-level Knowledge Editing](https://openreview.net/forum?id=7nIUWNewmT)
