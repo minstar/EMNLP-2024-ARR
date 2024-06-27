@@ -67,7 +67,7 @@ Archiving ARR papers for EMNLP 2024
 62) [Hallucination Mitigating for Medical Report Generation](https://openreview.net/forum?id=X9h5qaKqqT)
 63) [Alleviating Hallucinations of Large Language Models through Induced Hallucinations](https://openreview.net/forum?id=X2LNm1SCjs)
 
-## Compression
+## :book: Compression
 1) [Adaptive Feature-based Low-Rank Compression of Large Language Models via Bayesian Optimization](https://openreview.net/forum?id=Acvvg21lst)
 2) [Recurrent Context Compression: Efficiently Expanding the Context Window of LLM](https://openreview.net/forum?id=E4JmTsdXhr)
 3) [PROMPT-SAW: Leveraging Relation-Aware Graphs for Textual Prompt Compression](https://openreview.net/forum?id=IV0KyxFQ9h)
@@ -172,3 +172,23 @@ Archiving ARR papers for EMNLP 2024
 7) [DocDoc: a general framework for open-ended long text generation](https://openreview.net/forum?id=jZeuVLt9Bs)
 8) [RAG vs. Long Context: Examining Frontier Large Language Models for Environmental Review Document Comprehension](https://openreview.net/forum?id=k3ibnAmzKG)
 9) [Leave No Document Behind: Benchmarking Long-Context LLMs with Extended Multi-Doc QA](https://openreview.net/forum?id=rvXzn73Gxm)
+
+## :book: Conversation & Dialogue [Empathy, Safety]
+1) [Raw Text is All you Need: Knowledge-intensive Multi-turn Instruction Tuning for Large Language Model](https://openreview.net/forum?id=vbUm0UmVXF)
+2) [PsyPlay: Personality-Infused Role-Playing Conversational Agents](https://openreview.net/forum?id=vANmnQOqTf)
+3) [Factual Dialogue Summarization via Learning from Large Language Models](https://openreview.net/forum?id=r1QCjU78j9)
+4) [SYNTHEMPATHY: A Scalable Empathy Corpus Generated Using LLMs Without Any Crowdsourcing](https://openreview.net/forum?id=qOmQ6AruXm)
+5) [Global Reward to Local Rewards: Multimodal-Guided Decomposition for Improving Dialogue Agents](https://openreview.net/forum?id=qAXUZFU6Q9)
+6) [Learning from Implicit User Feedback, Emotions and Demographic Information in Task-Oriented Document-Grounded Dialogues](https://openreview.net/forum?id=m2JUBJuKQD)
+7) [Empowering Empathetic Dialogue Generation in Large Language Models via Sensible and Visionary Commonsense Inference](https://openreview.net/forum?id=h1AlJPngXy)
+8) [Speak Out of Turn: Safety Vulnerability of Large Language Models in Multi-turn Dialogue](https://openreview.net/forum?id=gzBXGu5wHf)
+9) [Interactive Evaluation for Medical LLMs via Task-oriented Dialogue System](https://openreview.net/forum?id=eGn3TYJJbP)
+10) [DiaCBT: A Fine-Grained Dialogue Benchmark with Cognitive Behavioral Therapy for Psychological Counseling](https://openreview.net/forum?id=b2HTD5Q3YK)
+11) [Towards Strategic Persuasion: Unveiling Users’ Susceptibility to Persuasive Strategies in Dialogues](https://openreview.net/forum?id=YHUUBTF2HW)
+12) [From Traits to Empathy: Personality-Aware Multimodal Empathetic Response Generation](https://openreview.net/forum?id=VnDTbu0WB0)
+13) ["In-Dialogues We Learn": Towards Personalized Dialogue Without Pre-defined Profiles through In-Dialogue Learning](https://openreview.net/forum?id=U1m6MpRSVj)
+14) [Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data](https://openreview.net/forum?id=T16jwd5e4T)
+15) [Are LLMs Effective Negotiators? Systematic Evaluation of the Multifaceted Capabilities of LLMs in Negotiation Dialogues](https://openreview.net/forum?id=FbpCKiIvmC)
+16) [DynDST: A Dynamic Dialogue State Tracking Dataset for Assessing the Conversational Adaptability of Large Language Models](https://openreview.net/forum?id=Cr7pVMsj9o)
+17) [CoSafe: Evaluating Large Language Model Safety in Multi-Turn Dialogue Coreference](https://openreview.net/forum?id=AJJZfN6jdv)
+18) [SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support](https://openreview.net/forum?id=2p3FI7YZHu)
