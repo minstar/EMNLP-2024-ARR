@@ -66,3 +66,15 @@ Archiving ARR papers for EMNLP 2024
 61) [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://openreview.net/forum?id=btfCvWz5vO)
 62) [Hallucination Mitigating for Medical Report Generation](https://openreview.net/forum?id=X9h5qaKqqT)
 63) [Alleviating Hallucinations of Large Language Models through Induced Hallucinations](https://openreview.net/forum?id=X2LNm1SCjs)
+
+## Compression
+1) [Adaptive Feature-based Low-Rank Compression of Large Language Models via Bayesian Optimization](https://openreview.net/forum?id=Acvvg21lst)
+2) [Recurrent Context Compression: Efficiently Expanding the Context Window of LLM](https://openreview.net/forum?id=E4JmTsdXhr)
+3) [PROMPT-SAW: Leveraging Relation-Aware Graphs for Textual Prompt Compression](https://openreview.net/forum?id=IV0KyxFQ9h)
+4) [Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging](https://openreview.net/forum?id=LHfAyDyHcE)
+5) [LightCache: Efficient Inference for Transformers via KV Cache Compression in Feature Dimension](https://openreview.net/forum?id=O65aiPtB1t)
+6) [COMPACT: Compressing Retrieved Documents Actively for Question Answering](https://openreview.net/forum?id=QoSLasuLAa)
+7) [In-Context Former: Lightning-fast Compressing Context for Large Language Model](https://openreview.net/forum?id=Ui4IdCvESt)
+8) [Unifying Demonstration Selection and Compression for In-Context Learning](https://openreview.net/forum?id=qcH80ZZGXa)
+9) [Language Models Can Think Faster: Compressing Chain-of-Thought without Compromising Effectiveness](https://openreview.net/forum?id=uVjSlJ7bi1)
+10) [SCA: Selective Compression Attention for Efficiently Extending the Context Window of Large Language Models](https://openreview.net/forum?id=y5gbFhQUbU)
